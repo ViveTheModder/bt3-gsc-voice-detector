@@ -1,6 +1,7 @@
 # bt3-gsc-voice-detector
 A datamining tool made in Eclipse, that takes a GSC (Dragon History scenario file) 
 and determines which voice lines are used & unused.
+
 To ensure that it works, the project comes with the GSC file used for Saiyan Saga's "Common Enemy" scenario.
 
 ## Usage/Preview
